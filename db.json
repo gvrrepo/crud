@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "fresh",
+      "price": 451,
+      "comment": "its a fresh apple",
+      "date": "2022-07-11T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Banana",
+      "category": "Fruits",
+      "freshness": "fresh",
+      "price": 100,
+      "comment": "banan is good for health",
+      "date": "2022-07-14T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "lemon",
+      "category": "Vegetables",
+      "freshness": "fresh",
+      "price": 10,
+      "comment": "its a lemon",
+      "date": "2022-07-14T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Brinjal",
+      "category": "Vegetables",
+      "freshness": "fresh",
+      "price": 12,
+      "comment": "its a brinjal",
+      "date": "2022-07-15T18:30:00.000Z",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
